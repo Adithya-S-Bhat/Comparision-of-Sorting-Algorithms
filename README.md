@@ -1,5 +1,17 @@
 # Comparision of Various Sorting Algorithms
 
+Comparison of Bubble, Insertion, Quick and Merge Sorting techniques which sort randomly generated elements through a range of size from 100 thousand to 1 M  
+
+# File Structure
+* Code -> Contains the C code for acheiving Problem Statement   
+  * sort.h -> Header file which contains structures and function prototypes
+  * sortclient.c -> Driver code which invokes functions
+  * sortimp.c -> Contains function definitions
+* Graphs -> Contains Graphs that were obtained
+* Output Files -> Contains text file with data required to plot the graph
+  
+
+# Plotting Graph
 Graph is plotted using "gnuplot" command line tool.   
 Use the following commands on gnuplot command line to view the graph:  
 
